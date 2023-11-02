@@ -1,0 +1,16 @@
+{
+  "packs": [
+    "MistressoftheDark.json",
+    "Friday_The_13th.json",
+    "HowardLovecraft.json",
+    "PatrickBob.json",
+    "CriminalRaccoon.json",
+    "HorrorPack.json",
+    "FriendlyDeath.json",
+    "PrettyLazy.json",
+    "Die_Hard.json",
+    "GrinchStoleChristmas.json",
+    "TedFrosty.json"
+  ],
+  "homeserver_url": "https://matrix.griffu.xyz"
+}
