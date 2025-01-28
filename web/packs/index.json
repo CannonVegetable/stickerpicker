@@ -1,0 +1,18 @@
+{
+  "packs": [
+    "Spider_meme.json",
+    "TedFrosty.json",
+    "GrinchStoleChristmas.json",
+    "Die_Hard.json",
+    "MistressoftheDark.json",
+    "Friday_The_13th.json",
+    "HowardLovecraft.json",
+    "Brick_Man.json",
+    "PatrickBob.json",
+    "CriminalRaccoon.json",
+    "HorrorPack.json",
+    "FriendlyDeath.json",
+    "PrettyLazy.json"
+  ],
+  "homeserver_url": "https://matrix.griffu.xyz"
+}
